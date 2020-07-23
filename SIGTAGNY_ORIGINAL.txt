@@ -1,0 +1,74 @@
+===========================================================================
+Advanced engine needed  : Latest version of GZDoom
+Primary purpose         : Single play
+===========================================================================
+Title                   : Sights of Agony
+Filename                : SIGTAGNY
+Release date            : 21st of November 2013
+Author                  : Zacharie Roberts (reuploaded by nambona890
+Email Address           : poopyshooty6@gmail.com
+Other Files By Author   : I have some wads I never released.
+
+Description             : After hell's invasion of Earth, the UAC set up
+                          giant floating cities while the remaining
+                          population re-built human society on Earth.
+                          
+                          While patroling the Earth's surface, shooting the
+                          remaining imps and zombies, you get a radio
+                          transmission from one of the floating cities. You
+                          run to your pilot and fly there.
+                          
+                          But what you didn't know, is that the secrets go
+                          far beyond hell this time.
+
+Additional Credits to   : Scuba Steve, Mark Klem, Adobe, ModArchive, GZDoom
+                          (Builder) creators, and ID Software.
+===========================================================================
+* What is included *
+
+New levels              : 3
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 5 Months
+Editor(s) used          : GZDoom Builder, SLADE, and Photoshop
+Known Bugs              : One of my friends reported of a HOM in MAP03, but
+                          I never noticed it.
+May Not Run With...     : Non-GZDoom
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
