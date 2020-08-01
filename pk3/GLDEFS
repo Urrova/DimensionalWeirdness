@@ -1,0 +1,4 @@
+HardwareShader PostProcess scene {
+	Name "NegativeShader"
+	Shader "shaders/NEGATIVE.fp" 330
+}
