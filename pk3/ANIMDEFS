@@ -1,1 +1,7 @@
 texture N_FIRE1 range N_FIRE3 tics 5
+
+warp2 texture somemong 1
+warp flat NUKAGE1
+warp flat NUKAGE2
+warp flat NUKAGE3
+warp flat NUKAGE4	

@@ -1,8 +1,8 @@
 version "2.5"
 
+//Handler de los shaders, para el shader negativo
 class ShaderHandler : StaticEventHandler {
 	override void RenderOverlay(RenderEvent e) {
-		// set the player's timer up correctly (more-than-1-tick precision)
 		PlayerInfo p = players[consoleplayer];
 		if (CVar.GetCVar("SIGTAGNY2_Shader", p).GetInt() == 1) {
 			Shader.SetEnabled(p, "NegativeShader", true);
