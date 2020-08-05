@@ -1,42 +1,29 @@
+defaultmap{
+	NoCrouch
+	NoJump
+	NoInfighting
+}
+
 map map01 lookup "Sights of Agony"{
-	music = FUKUBISH
+	music = MAP01MUS
 	sky1 = CSKY021, 0
 	next = map02
-	NoInfighting
 }
 
 map map02 lookup "The Other Dimension"{
 	music = ""
 	sky1 = "SKY3", 0.4
 	next = map03
-	NoCrouch
-	NoJump
-	cluster = 1
-}
-
-
-cluster 1{
-	exittext = "Bringing his entire realm to",
-	"destruction to stop you from",
-	"getting away a virgin, Albert",
-	"Four-Hundred dies in his realm.",
-	"",
-	"Congratulations, you defeated",
-	"the unholy evil of rape, but",
-	"you will have to train billions",
-	"of billions of years to even",
-	"touch CrashHelper's Dad!",
-	"",
-	"Now, you go to your club in a space",
-	"station and have a victory party"
-	music = ASSYBOOM
-	pic = SOMEMONG
-
 }
 
 map map03 lookup "CONGLATURATION"{
 	music = DRYSACK
-	sky1 = SOMEMONG, 0.1
+	sky1 = FIRESK00, 0.3
+}
+
+DoomEdNums{
+	8451 = PassWord
+	11628 = JetPack
 }
 
 gameinfo{

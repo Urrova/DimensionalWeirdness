@@ -1,0 +1,67 @@
+===========================================================================
+Update to               : URROVA
+Advanced engine needed  : GZDoom
+Primary purpose         : Single play
+===========================================================================
+Title                   : Sights Of Agony 2
+Filename                : SIGTAGNY2.pk3
+Release date            : fecha de salida
+Author                  : URROVA
+Email Address           : arovaurrova@gmail.com
+Other Files By Author   : FURDEMON.wad ANCENTER.wad UAC_ARENA.wad
+Misc. Author Info       : algo random
+
+Description             : Descripcion del wad
+
+Additional Credits to   : DrewPicklesOgre for the original wad
+===========================================================================
+* What is included *
+
+New levels              : 3 and a TITLEMAP
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : 01-03
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : Modified version of SIGTAGNY.wad
+Build Time              : Tiempo de construccion
+Editor(s) used          : GZDoom Builder, Slade3, Gimp, HexStartup++
+May Not Run With        : ZDoom, ZDaemon
+Tested With             : GZDoom 4.3.3
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use. If you remix, transform, or build upon the material, you must
+distribute your contributions under the same license as the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: pagina de itchio

@@ -1,0 +1,13 @@
+[INFO]
+Source: Playstation Doom
+Count: 2 (hundred)
+Format: PP markers
+Palette: Custom
+Anims: Yes
+
+[CREDITS]
+Submitted: scalliano
+Author: Williams Entertainment
+Conversion: fenderc01
+Edit: scalliano
+Idea Base: PSX Doom flaming sky
