@@ -6,21 +6,22 @@ defaultmap{
 	NoInfighting
 }
 
-map map01 "Enemy base"{
+map map01 "Enemy Base"{
 	music = MAP01MUS
 	sky1 = CSKY021, 0
 	next = map02
 }
 
-map map02 "The Other Dimension"{
-	music = ""
+map map02 "The Livenrac Dimension"{
+	music = MAP02MUS
 	sky1 = "SKY3"
 	next = map03
 }
 
-map map03 "The \"OTHER\" other dimension."{
+map map03 "The Dimension Controller"{
 	music = DRYSACK
 	sky1 = FIRESK00, 0.35
+	music = MAP03MUS
 }
 
 DoomEdNums{

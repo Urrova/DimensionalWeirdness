@@ -1,1 +1,1 @@
-server int SIGTAGNY2_Shader = 0;
+server noarchive int SIGTAGNY2_Shader = 0;

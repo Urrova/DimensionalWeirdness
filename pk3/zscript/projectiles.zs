@@ -40,6 +40,13 @@ class CellShooterProj : Actor{
 					A_SpawnProjectile("DoomImpBall",0,0,angle,CMF_ABSOLUTEPITCH ,-30);
 					angle = angle+30;
 				}
+				
+				angle = 0;
+				while (angle <=360){
+					A_SpawnProjectile("SlowPlasmaBall",0,0,angle,CMF_ABSOLUTEPITCH ,30);
+					A_SpawnProjectile("DoomImpBall",0,0,angle,CMF_ABSOLUTEPITCH ,30);
+					angle = angle+30;
+				}
 			}
 			TNT1 A -1;
 			stop;
