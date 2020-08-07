@@ -3,8 +3,8 @@ Update to               : URROVA
 Advanced engine needed  : GZDoom
 Primary purpose         : Single play
 ===========================================================================
-Title                   : Sights Of Agony 2
-Filename                : SIGTAGNY2.pk3
+Title                   : Dimensional Weirdness
+Filename                : DIMWEIRD.pk3
 Release date            : fecha de salida
 Author                  : URROVA
 Email Address           : arovaurrova@gmail.com

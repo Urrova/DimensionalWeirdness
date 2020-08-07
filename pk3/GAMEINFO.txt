@@ -1,5 +1,5 @@
 IWAD = "DOOM2.WAD"
 
-StartupTitle = "Sights of Agony 2"
+StartupTitle = "Dimensional Weirdness"
 
 StartupType = "Hexen"

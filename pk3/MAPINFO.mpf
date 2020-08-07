@@ -1,24 +1,26 @@
+include EndIntermission.mpf
+
 defaultmap{
 	NoCrouch
 	NoJump
 	NoInfighting
 }
 
-map map01 lookup "Sights of Agony"{
+map map01 "Enemy base"{
 	music = MAP01MUS
 	sky1 = CSKY021, 0
 	next = map02
 }
 
-map map02 lookup "The Other Dimension"{
+map map02 "The Other Dimension"{
 	music = ""
-	sky1 = "SKY3", 0.4
+	sky1 = "SKY3"
 	next = map03
 }
 
-map map03 lookup "CONGLATURATION"{
+map map03 "The \"OTHER\" other dimension."{
 	music = DRYSACK
-	sky1 = FIRESK00, 0.3
+	sky1 = FIRESK00, 0.35
 }
 
 DoomEdNums{
