@@ -3,6 +3,7 @@ class Password : Weapon {
 	Inventory.PickupMessage "Picked up a note";
 	weapon.selectionorder 50000;
 	Weapon.SlotNumber 0;
+	radius 64;
 	}
 	states{
 		Select:

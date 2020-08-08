@@ -1,5 +1,6 @@
 IWAD = "DOOM2.WAD"
 
-StartupTitle = "Dimensional Weirdness"
+StartupTitle = "[Dimensional Weirdness] Loading, please wait.."
+StartupColors = "00 FF 00","00 00 00"
 
 StartupType = "Hexen"

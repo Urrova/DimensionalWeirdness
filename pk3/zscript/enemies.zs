@@ -52,7 +52,7 @@ class Nucleardemon_Phase1 : Actor{
 			CYBR I 10 A_Scream;
 			CYBR JKL 10;
 			CYBR M 10 A_NoBlocking;
-			TNT1 A 0 A_SpawnItemEx("Nucleardemon_Phase2",0,0,0,0,0,0,angle,0,0,6002);
+			TNT1 A 0 A_SpawnItemEx("Nucleardemon_Phase2",0,0,0,0,0,0,angle,0,0,6001);
 			Stop;
 	}
 }
