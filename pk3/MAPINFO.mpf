@@ -22,17 +22,23 @@ map map03 "The Dimension Controller"{
 	cluster = 1
 }
 
+map CREDITS "Credits"{
+	music = FIVE
+}
+
 cluster 1{
 	exittext = "Finally, after many fights against the demons,",
 	"you were able to infiltrate the dimension where demonic",
 	"hordes were built, you defeated the NuclearDemon,",
 	"the greatest danmaku weapon within that dimension,",
 	"and besides everything, destroy it! ",
-	"You\'re amazing, you destroyed an entire dimension!",
+	"You're amazing, you destroyed an entire dimension!",
+	"",
 	"",
 	"Now planet earth with its humanity and other ",
 	"species are safe, at least for a time. You can finally rest",
 	"from killing demons for a while."
+	pic = "graphics/ENDTEXTPIC"
 }
 
 DoomEdNums{
