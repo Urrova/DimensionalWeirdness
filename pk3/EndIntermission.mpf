@@ -1,6 +1,0 @@
-intermission EndIntermission{
-	TextScreen{
-		TextLump = "credits/CREDITS.txt"
-		TextColor = "00 00 FF"
-	}
-}

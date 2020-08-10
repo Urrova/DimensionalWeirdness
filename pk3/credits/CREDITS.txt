@@ -1,5 +1,4 @@
-#########################[CREDITS]#########################
-
+####[DETAILED CREDITS]#####
 Mod making, mapping, scripting:
 URROVA
 
@@ -7,15 +6,15 @@ Original wad SIGTAGNY.wad by:
 DrewPicklesOgre
 
 Sound Effects:
-BouncyTem, ZUN.
+BouncyTem (BOMB2) 
+ZUN (CAUTION, SHOOT).
 
 Skyboxes:
 FuzzBallFox, fenderc01, scalliano, Williams Entertainment.
 
 Music:
-URROVA (Map 02 and 03 music), ZUN (Nuclear Fusion), 
-Algar (Five), Give In (With Pleasure) from
-Memento Mori II.	
+URROVA (Map 02 (a dimension with demons) and 03 () music), 
+ZUN (Nuclear Fusion),  Algar (Five), 
+Give In (With Pleasure) from Memento Mori II.	
 
-##########################################################
-
+############################

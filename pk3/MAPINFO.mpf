@@ -1,5 +1,3 @@
-include EndIntermission.mpf
-
 defaultmap{
 	NoCrouch
 	NoJump
@@ -19,9 +17,22 @@ map map02 "The Livenrac Dimension"{
 }
 
 map map03 "The Dimension Controller"{
-	music = DRYSACK
 	sky1 = FIRESK00, 0.35
 	music = MAP03MUS
+	cluster = 1
+}
+
+cluster 1{
+	exittext = "Finally, after many fights against the demons,",
+	"you were able to infiltrate the dimension where demonic",
+	"hordes were built, you defeated the NuclearDemon,",
+	"the greatest danmaku weapon within that dimension,",
+	"and besides everything, destroy it! ",
+	"You\'re amazing, you destroyed an entire dimension!",
+	"",
+	"Now planet earth with its humanity and other ",
+	"species are safe, at least for a time. You can finally rest",
+	"from killing demons for a while."
 }
 
 DoomEdNums{
@@ -31,4 +42,5 @@ DoomEdNums{
 
 gameinfo{
 	AddEventHandlers = "ShaderHandler"
+	DrawReadThis = true
 }
