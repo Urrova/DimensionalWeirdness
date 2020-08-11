@@ -133,7 +133,8 @@ class Nucleardemon_Phase3 : Actor{
 		Monster;
 		+BOSS;
 		+MISSILEMORE;
-		+MISSILEEVENMORE;
+		//+MISSILEEVENMORE;
+		//Esto es demasiao xD
 		+FLOAT;
 		+NOGRAVITY;
 		

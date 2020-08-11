@@ -20,6 +20,7 @@ map map03 "The Dimension Controller"{
 	sky1 = FIRESK00, 0.35
 	music = MAP03MUS
 	cluster = 1
+	next = CREDITS
 }
 
 map CREDITS "Credits"{
