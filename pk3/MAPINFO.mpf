@@ -24,6 +24,8 @@ map map03 "The Dimension Controller"{
 
 map CREDITS "Credits"{
 	music = FIVE
+	nointermission
+	Next = "EndTitle"
 }
 
 cluster 1{
@@ -50,3 +52,4 @@ gameinfo{
 	AddEventHandlers = "ShaderHandler"
 	DrawReadThis = true
 }
+
