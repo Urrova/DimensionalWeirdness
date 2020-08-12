@@ -1,23 +1,38 @@
 ===========================================================================
 Update to               : URROVA
-Advanced engine needed  : GZDoom
+Advanced engine needed  : GZDoom 4.3.3
 Primary purpose         : Single play
 ===========================================================================
 Title                   : Dimensional Weirdness
 Filename                : DIMWEIRD.pk3
-Release date            : fecha de salida
+Release date            : August 11, 2020
 Author                  : URROVA
 Email Address           : arovaurrova@gmail.com
-Other Files By Author   : FURDEMON.wad ANCENTER.wad UAC_ARENA.wad
-Misc. Author Info       : algo random
+Other Files By Author   : FURDEMON.wad ANCENCER.wad UAC_ARENA.wad NUKEMAP.wad
+Misc. Author Info       : Nobody sees what I do
 
-Description             : Descripcion del wad
+Description             : You just infiltrated an enemy base to find out
+                          where so many demons came from, and you discover a
+                          portal. You decided to enter the portal and it took
+                          you to a surprising place: Another dimension, where
+                          demons are produced to fight allies with enemies.
+                          Can you defeat the one who controls the dimension
+                          and then destroy the dimension?
+                          
+                          This wad is a non-terry version of SIGTAGNY.wad,
+                          which originally had terry traps, screamers and
+                          shit. I grabbed it and made my own version of
+                          SIGTAGNY.wad, which is this pk3.
 
-Additional Credits to   : DrewPicklesOgre for the original wad
+Additional Credits to   : DrewPicklesOgre for the base wad (SIGTAGNY.wad),
+                          Memento Mori II for Give In (with pleasure), zun
+                          for Nuclear fusion music, SHoot and CAUTION sfx,
+                          BouncyTEM for BOMB2 sfx, Fuzzballfox for a skybox,
+                          Fenderc01/Scalliano for PSX fire skybox.
 ===========================================================================
 * What is included *
 
-New levels              : 3 and a TITLEMAP
+New levels              : 3, a titlemap and a credits map
 Sounds                  : Yes
 Music                   : Yes
 Graphics                : Yes
@@ -41,9 +56,11 @@ Difficulty Settings     : Not implemented
 * Construction *
 
 Base                    : Modified version of SIGTAGNY.wad
-Build Time              : Tiempo de construccion
-Editor(s) used          : GZDoom Builder, Slade3, Gimp, HexStartup++
-May Not Run With        : ZDoom, ZDaemon
+Build Time              : 1 month.
+Editor(s) used          : GZDoom Builder, Slade3, GImp, LMMS, Hexstartup++,
+                          ENDOOMER
+Known Bugs              : None
+May Not Run With        : All below gzdoom 4.3.3
 Tested With             : GZDoom 4.3.3
 
 
@@ -64,4 +81,4 @@ distribute your contributions under the same license as the original.
 * Where to get the file that this text file describes *
 
 The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
-Web sites: pagina de itchio
+Web sites: https://urrova.itch.io/dimensional-weirdness
