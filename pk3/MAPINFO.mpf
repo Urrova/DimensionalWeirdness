@@ -1,7 +1,7 @@
 defaultmap{
 	NoCrouch
 	NoJump
-	NoInfighting
+	//NoInfighting /* Ahora no se pueden quejar */
 }
 
 map map01 "Enemy Base"{
