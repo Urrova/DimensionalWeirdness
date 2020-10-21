@@ -7,6 +7,7 @@ This wad is a non-terry version of **SIGTAGNY.wad** , which originally had terry
 Doomworld thread [here](https://www.doomworld.com/forum/topic/116211-dimensional-weirdness-my-non-terry-sigtagnywad-version/)
 
 Some screenshots:
+
 ![Screenshot 1](https://img.itch.zone/aW1hZ2UvNzI4MTMwLzQwNDM5OTkucG5n/original/A8j%2FBs.png)
 ![Screenshot 2](https://img.itch.zone/aW1hZ2UvNzI4MTMwLzQwNDM5OTAucG5n/original/Q4v0ai.png)
 ![Screenshot 3](https://img.itch.zone/aW1hZ2UvNzI4MTMwLzQwNDM5OTIucG5n/original/43Cw0M.png)
