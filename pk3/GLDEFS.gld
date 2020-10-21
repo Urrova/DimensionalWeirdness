@@ -1,8 +1,10 @@
+/////SHADERS/////
 HardwareShader PostProcess scene {
 	Name "NegativeShader"
 	Shader "shaders/NEGATIVE.fp" 330
 }
 
+/////BRIGHTMAPS/////
 brightmap texture N_LFAL01{
 	map N_LFAL01
 }

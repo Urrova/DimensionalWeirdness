@@ -26,7 +26,7 @@ Description             : You just infiltrated an enemy base to find out
 
 Additional Credits to   : DrewPicklesOgre for the base wad (SIGTAGNY.wad),
                           Memento Mori II for Give In (with pleasure), zun
-                          for Nuclear fusion music, SHoot and CAUTION sfx,
+                          for Nuclear fusion music, SHOOT and CAUTION sfx,
                           BouncyTEM for BOMB2 sfx, Fuzzballfox for a skybox,
                           Fenderc01/Scalliano for PSX fire skybox.
 ===========================================================================
@@ -48,7 +48,7 @@ Game                    : Doom 2
 Map #                   : 01-03
 Single Player           : Designed for
 Cooperative 2-4 Player  : No
-Deathmatch 2-4 Player   : No
+Deathmatch 2-4 Player   : Designed for
 Other game styles       : None
 Difficulty Settings     : Not implemented
 
